@@ -12,3 +12,4 @@ The script creates one account. To add more, checkout `/etc/ppp/chap-secrets`.
 wget https://raw.githubusercontent.com/jakerullman/vpn.sh/master/vpn.sh
 sudo sh vpn.sh
 ```
+T
